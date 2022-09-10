@@ -6,7 +6,7 @@ public class CreateSignature {
 
         //Accepting text from user
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter some text");
+        System.out.print("Enter text : ");
         String msg = sc.nextLine();
 
         //Creating KeyPair generator object
