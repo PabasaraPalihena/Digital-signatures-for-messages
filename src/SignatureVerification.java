@@ -2,11 +2,12 @@ import java.security.KeyPair;
 import java.security.KeyPairGenerator;
 import java.security.PrivateKey;
 import java.security.Signature;
-
 import java.util.Scanner;
 
 public class SignatureVerification {
     public static void main(String args[]) throws Exception{
+
+        //CreateSignature data = new CreateSignature();
 
         //Creating KeyPair generator object
         KeyPairGenerator keyPairGen = KeyPairGenerator.getInstance("DSA");

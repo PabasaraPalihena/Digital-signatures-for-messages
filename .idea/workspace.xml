@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="199a44b9-7753-4458-875d-2513b60fe432" name="Changes" comment="Digital signature verification">
-      <change beforePath="$PROJECT_DIR$/src/CreateSignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateSignature.java" afterDir="false" />
+    <list default="true" id="199a44b9-7753-4458-875d-2513b60fe432" name="Changes" comment="modified the CreateSignature class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignatureVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignatureVerification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662794994067</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modified the CreateSignature class">
+      <created>1662795376269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662795376269</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +82,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Digital signature initial code" />
     <MESSAGE value="Digital signature verification" />
-    <option name="LAST_COMMIT_MESSAGE" value="Digital signature verification" />
+    <MESSAGE value="modified the CreateSignature class" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified the CreateSignature class" />
   </component>
 </project>
