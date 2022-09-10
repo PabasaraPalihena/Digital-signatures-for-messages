@@ -1,7 +1,7 @@
 import java.security.*;
 import java.util.Scanner;
 
-public class Main {
+public class CreateSignature {
     public static void main(String[] args) throws Exception {
 
         //Accepting text from user
