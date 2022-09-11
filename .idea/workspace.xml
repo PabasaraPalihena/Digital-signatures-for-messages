@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="199a44b9-7753-4458-875d-2513b60fe432" name="Changes" comment="modified the CreateSignature class">
+    <list default="true" id="199a44b9-7753-4458-875d-2513b60fe432" name="Changes" comment="modified the SignatureVerification class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreateSignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateSignature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SignatureVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignatureVerification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +30,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662795376269</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modified the SignatureVerification class">
+      <created>1662795885012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662795885012</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +91,8 @@
     <MESSAGE value="Digital signature initial code" />
     <MESSAGE value="Digital signature verification" />
     <MESSAGE value="modified the CreateSignature class" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified the CreateSignature class" />
+    <MESSAGE value="modified the Signatureverification class" />
+    <MESSAGE value="modified the SignatureVerification class" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified the SignatureVerification class" />
   </component>
 </project>

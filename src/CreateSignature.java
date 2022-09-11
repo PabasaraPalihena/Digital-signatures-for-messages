@@ -35,7 +35,7 @@ public class CreateSignature {
         byte[] signature = sign.sign();
 
         //Printing the signature
-        System.out.println("Digital signature for given text: "+new String(signature, "UTF8"));
+        System.out.println("Digital signature for given text : "+new String(signature, "UTF8"));
 
     }
 }

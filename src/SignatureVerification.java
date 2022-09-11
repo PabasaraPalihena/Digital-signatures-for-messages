@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class SignatureVerification {
     public static void main(String args[]) throws Exception{
 
-        //CreateSignature data = new CreateSignature();
+        CreateSignature data = new CreateSignature();
 
         //Creating KeyPair generator object
         KeyPairGenerator keyPairGen = KeyPairGenerator.getInstance("DSA");
