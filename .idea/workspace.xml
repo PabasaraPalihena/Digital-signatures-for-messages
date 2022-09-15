@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="199a44b9-7753-4458-875d-2513b60fe432" name="Changes" comment="modified the SignatureVerification class">
+    <list default="true" id="199a44b9-7753-4458-875d-2513b60fe432" name="Changes" comment="modified the SignatureVerification">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CreateSignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateSignature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SignatureVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignatureVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignatureVerification.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662795885012</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modified the SignatureVerification">
+      <created>1662862786654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662862786654</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +100,7 @@
     <MESSAGE value="modified the CreateSignature class" />
     <MESSAGE value="modified the Signatureverification class" />
     <MESSAGE value="modified the SignatureVerification class" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified the SignatureVerification class" />
+    <MESSAGE value="modified the SignatureVerification" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified the SignatureVerification" />
   </component>
 </project>

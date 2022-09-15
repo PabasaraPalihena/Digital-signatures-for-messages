@@ -37,5 +37,20 @@ public class CreateSignature {
         //Printing the signature
         System.out.println("Digital signature for given text : "+new String(signature, "UTF8"));
 
+        //Initializing the signature
+        sign.initVerify(pair.getPublic());
+
+        //add data to the signature
+        sign.update(bytes);
+
+        //Verifying the signature
+        boolean bool = sign.verify(signature);
+
+        if(bool) {
+            System.out.println("Signature verified.....");
+        } else {
+            System.out.println("Signature failed.....");
+        }
+
     }
 }
